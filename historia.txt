@@ -1,5 +1,5 @@
 Este es un documento de texto para practicar el uso de Git y GitHub.
 
-Mi nombre es Adrián Leonardo Morales y hoy es 17 de julio de 2022.
+Mi nombre es Adrián Morales y hoy es 17 de julio.
 
-Tengo 28 años y un perro llamado Nerón.
+En este momento estoy aprendiendo a usar el git checkout.
