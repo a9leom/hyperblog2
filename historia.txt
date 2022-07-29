@@ -2,4 +2,6 @@ Este es un documento de texto para practicar el uso de Git y GitHub.
 
 Mi nombre es Adrián Morales y hoy es 17 de julio.
 
+Master 1
+
 En este momento estoy aprendiendo a usar el git checkout.
