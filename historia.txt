@@ -4,4 +4,6 @@ Mi nombre es Adrián Morales y hoy es 17 de julio.
 
 Master 1
 
+Master 2
+
 En este momento estoy aprendiendo a usar el git checkout.
